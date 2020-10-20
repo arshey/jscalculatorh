@@ -2,7 +2,7 @@
     "name": "vincent-ferie/js-calculator-h",
     "description": "Javascript Calculator deploying on Heroku for Learning",
     "type": "heroku",
-
+    
     "require-dev": {
         "heroku/heroku-buildpack-php": "^182.0"
     },
