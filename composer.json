@@ -1,0 +1,20 @@
+{
+    "name": "vincent-ferie/js-calculator-h",
+    "description": "Javascript Calculator deploying on Heroku for Learning",
+    "type": "heroku",
+    "require": {
+        "heroku/heroku-buildpack-php": "^182.0",
+        "alrik11es/cowsayphp": "^1.2"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^182.0"
+    },
+    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent-Férié",
+            "email": "arshey@live.fr"
+        }
+    ]
+}
