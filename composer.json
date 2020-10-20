@@ -3,8 +3,7 @@
     "description": "Javascript Calculator deploying on Heroku for Learning",
     "type": "heroku",
     "require": {
-        "heroku/heroku-buildpack-php": "^182.0",
-        "alrik11es/cowsayphp": "^1.2"
+        "heroku/heroku-buildpack-php": "^182.0"
     },
     "require-dev": {
         "heroku/heroku-buildpack-php": "^182.0"
